@@ -1,7 +1,7 @@
 cwphpfblikeall
 ==============
 
-Facebook like ALL freinds posts in PHP
+"the book, wiht the faces" like ALL freinds posts in PHP
 
 This script will allow you to like everything your freinds post.
 What a supportive person you are. You must have read Dale Carnegie.
@@ -13,5 +13,6 @@ Uses lib cURL.
 Facebook SDK not required.
 PHP curl support required.
 Must create your own facebook app, which requires a facebook account (which, for some reason, may require a phone number, use a throwaway).
+Requires "the book, with the faces" publish_actions and read_stream permissions
 
 
