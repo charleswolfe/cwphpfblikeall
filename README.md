@@ -1,6 +1,6 @@
-cwphpfblikeall
+Charles Wolfe's Facebook Like ALL script written in PHP
 ==============
-Not sure if I can say 'Facebook' or not.
+Not sure if I can legally say 'Facebook' or not.
 "the book, with the faces" like ALL friends posts in PHP
 
 ![Script in action](https://i.imgur.com/Ll0irSu.jpg)
@@ -25,7 +25,7 @@ If running in production, you are going to want to gett he long access token ser
 
 facebooklikeall.php - this is designed to be called from another script, you pass it the users long access toekn and user id. The idea is that if you had several accounts, you could fork off a bunch of these for each account. I call mine very hour, and it looks at posts 30 minites before the last run time (just to be safe). This doesnt need to be be avaiabale publically, treat it as CGI.
 
-I have no affiliation with Facebook, this is not offcial or anything.
+I have no affiliation with Facebook, this is not official or anything.
 
 
 
